@@ -1,0 +1,16 @@
+---
+content_type: resource
+description: This resource contains the information regarding semi-thick plasma approximation.
+  Line radiation and broadening. Bound-free radiation. Bremsstrahlung. Escape for
+  resonant radiation.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-55-ionized-gases-fall-2014/3d0c5f643cd1d062a2b41af733598d47_MIT16_55F14_Lecture25.pdf
+file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+resourcetype: Document
+title: '16.55 Fall 2014 Lecture 25 Notes: Semi-thick plasma approximation'
+uid: 3d0c5f64-3cd1-d062-a2b4-1af733598d47
+---
